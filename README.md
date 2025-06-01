@@ -16,7 +16,7 @@ This assignment should prove that a student is able to:
 - Commit git repo changes
 - Push code updated to the remote repository
 - Submit assignments as Github repo URLs
-
+'
 ## Standard requirements
 
 - [ ] Fork the project to your github account
